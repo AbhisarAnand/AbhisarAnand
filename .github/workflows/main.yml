@@ -11,6 +11,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: AbhisarAnand/AbhisarAnand@main
+      - uses: AbhisarAnand/AbhisarAnand@master
         with:
+          branch: origin
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
