@@ -7,13 +7,10 @@ on:
     - cron: "0 * * * *"
 
 jobs:
-  update-Readme:
-    name: Automatically update my README  
+  update-readme:
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_MONTHLY: true
-          GITHUB_TOKEN: ${{ github.token }}
-          GITHUB_ACTION: ${{ github.action }}
