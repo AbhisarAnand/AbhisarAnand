@@ -9,21 +9,19 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@gapur.kassym)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)-->
 
-## Thank you for visiting! ![](https://visitor-badge.glitch.me/badge?page_id=AbhisarAnand.AbhisarAnand)
+### Thank you for visiting! ![](https://visitor-badge.glitch.me/badge?page_id=AbhisarAnand.AbhisarAnand)
 
 ## A Little About Me
-<p>I am a sophmore who attends Westford Academy. I have competed for 5 years in a competition called Destination Imagination, DI, in which I have made it to Globals 3 years in the field of engineering. My accomplishments from DI include a 70 grams wooden structure capable of holding over a 1000 pounds.
+I am a sophmore who attends Westford Academy. I have competed for 5 years in a competition called Destination Imagination, DI, in which I have made it to Globals 3 years in the field of engineering. My accomplishments from DI include a 70 grams wooden structure capable of holding over a 1000 pounds.
 
 I have been programming for over 4 years and am well versed in the languages Python, Java, HTML, and JavaScript. I also have a lot of experience working with embedded devices such as a Raspberry Pi. They are a siginficant contributor in my other interest, computer vision. Computer Vision is a subset of Artificial Intelligence in which computers get a high-level understanding from images and even videos. I worked on many computer vision projects that use an embedded device as the brains of the project as they are cheap, fast, and easy to work with. I have also participated in many hackathons winning wide variety of prizes in all of them.
 
-I am also part of the FRC team 5422 called Stormgears in which I mainly work in software. DECA, a business competition, is another competition I compete in which I have made it to the State level. Business is another interest which I possess. I have part of an non-profit organization called MC3D Robotics in which they teach Programming and 3D-Printing to the young generation.</p>
+I am also part of the FRC team 5422 called Stormgears in which I mainly work in software. DECA, a business competition, is another competition I compete in which I have made it to the State level. Business is another interest which I possess. I have part of an non-profit organization called MC3D Robotics in which they teach Programming and 3D-Printing to the young generation.
 
 ## 📈 **My GitHub Stats:**
 
-<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhisarAnand&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisarAnand&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 
 ## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
