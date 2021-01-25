@@ -10,6 +10,13 @@
 
 ### Thank you for visiting! ![](https://visitor-badge.glitch.me/badge?page_id=AbhisarAnand.AbhisarAnand)
 
+### A Little About Me
+<p>I am a sophmore who attends Westford Academy. I have competed for 5 years in a competition called Destination Imagination, DI, in which I have made it to Globals 3 years in the field of engineering. My accomplishments from DI include a 70 grams wooden structure capable of holding over a 1000 pounds.
+
+I have been programming for over 4 years and am well versed in the languages Python, Java, HTML, and JavaScript. I also have a lot of experience working with embedded devices such as a Raspberry Pi. They are a siginficant contributor in my other interest, computer vision. Computer Vision is a subset of Artificial Intelligence in which computers get a high-level understanding from images and even videos. I worked on many computer vision projects that use an embedded device as the brains of the project as they are cheap, fast, and easy to work with. I have also participated in many hackathons winning wide variety of prizes in all of them.
+
+I am also part of the FRC team 5422 called Stormgears in which I mainly work in software. DECA, a business competition, is another competition I compete in which I have made it to the State level. Business is another interest which I possess. I have part of an non-profit organization called MC3D Robotics in which they teach Programming and 3D-Printing to the young generation.</p>
+
 📈 **My GitHub Stats:**
 
 <p>
