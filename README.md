@@ -24,6 +24,7 @@ I am also part of the FRC team 5422 called Stormgears in which I mainly work in 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisarAnand&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
