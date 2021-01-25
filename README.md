@@ -8,7 +8,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@gapur.kassym)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)-->
 
-### Thank you for visiting! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+### Thank you for visiting! ![](https://visitor-badge.glitch.me/badge?page_id=AbhisarAnand.AbhisarAnand)
 <!--
 **AbhisarAnand/AbhisarAnand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
