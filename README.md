@@ -10,7 +10,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)-->
 
 ### Thank you for visiting! ![](https://visitor-badge.glitch.me/badge?page_id=AbhisarAnand.AbhisarAnand)
-#### Website <img src=".assets/coming_soon.gif" width="50px">
+#### Website <img src="./assets/coming_soon.gif" width="50px">
 
 ## A Little About Me
 I am a sophmore who attends Westford Academy. I have competed for 5 years in a competition called Destination Imagination, DI, in which I have made it to Globals 3 years in the field of engineering. My accomplishments from DI include a 70 grams wooden structure capable of holding over a 1000 pounds.
