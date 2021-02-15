@@ -32,7 +32,7 @@ Python   2 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░�
 CSV      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
-
+#### **Note: I spend a lot of time using Jupyter Notebooks which Wakatime counts as Other.**
 <!--
 **AbhisarAnand/AbhisarAnand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
