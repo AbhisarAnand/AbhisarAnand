@@ -27,8 +27,8 @@ I am also part of the FRC team 5422 called Stormgears in which I mainly work in 
 ## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Other    88 hrs 53 mins  ████████████████████████▓   98.86 % 
-Python   1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Other    85 hrs 37 mins  █████████████████████████   99.40 % 
+Python   31 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
 #### **Note: I spend a lot of time using Jupyter Notebooks which Wakatime counts as Other.**
