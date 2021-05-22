@@ -13,11 +13,9 @@
 #### Website <img src="./assets/coming_soon.gif" width="125px">
 
 ## A Little About Me
-I am a sophmore who attends Westford Academy. I have competed for 5 years in a competition called Destination Imagination, DI, in which I have made it to Globals 3 years in the field of engineering. My accomplishments from DI include a 70 grams wooden structure capable of holding over a 1000 pounds.
+  Hey, I'm an aspiring data scientist who loves tackling real-world issues: be it ideas from various fields, people from various teams, or applications from different industries. Some of my projects include AI Detection of Epileptic Seizures, Mask Detector, Occupation Tracker, Car Speed Detector, and "Drivector" (A product that prevents drivers to be distracted on the wheel). I have experience implementing my project in the real world such as the Mask Detector and the Occupation Tracker which were implemented at the local temple. I have strong technical skills in engineering, machine, and deep learning. My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am able to jump across verticals to deliver high-performing AI solutions. Apart from my academics, I’ve taken on various leadership roles, including being the captian for our school junior-varsity volleyball team, mentoring and teaching kids various STEM topics and leading teams for various competitions. This summer break, I'm interested in a part-time data science or machine learning internship. Please feel free to get in touch with me via email at abhisar.muz@gmail.com
 
-I have been programming for over 4 years and am well versed in the languages Python, Java, HTML, and JavaScript. I also have a lot of experience working with embedded devices such as a Raspberry Pi. They are a siginficant contributor in my other interest, computer vision. Computer Vision is a subset of Artificial Intelligence in which computers get a high-level understanding from images and even videos. I worked on many computer vision projects that use an embedded device as the brains of the project as they are cheap, fast, and easy to work with. I have also participated in many hackathons winning wide variety of prizes in all of them.
-
-I am also part of the FRC team 5422 called Stormgears in which I mainly work in software. DECA, a business competition, is another competition I compete in which I have made it to the State level. Business is another interest which I possess. I have part of an non-profit organization called MC3D Robotics in which they teach Programming and 3D-Printing to the young generation.
+A more detailed Resume can be found here: https://tinyurl.com/AbhisarAnandResume
 
 ## 📈 **My GitHub Stats:**
 
