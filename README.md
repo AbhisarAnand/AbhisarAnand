@@ -25,8 +25,8 @@ A more detailed Resume can be found here: https://tinyurl.com/AbhisarAnandResume
 ## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Other   64 hrs 33 mins  ████████████████████████▓   98.42 % 
-SQL     1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Other   62 hrs 11 mins  ████████████████████████▓   98.36 % 
+SQL     1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 <!--END_SECTION:waka-->
 #### **Note: I spend a lot of time using Jupyter Notebooks which Wakatime counts as Other.**
