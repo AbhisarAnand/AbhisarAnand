@@ -16,6 +16,7 @@
   Hey, I'm an aspiring data scientist who loves tackling real-world issues: be it ideas from various fields, people from various teams, or applications from different industries. Some of my projects include AI Detection of Epileptic Seizures, Mask Detector, Occupation Tracker, Car Speed Detector, and "Drivector" (A product that prevents drivers to be distracted on the wheel). I have experience implementing my project in the real world such as the Mask Detector and the Occupation Tracker which were implemented at the local temple. I have strong technical skills in engineering, machine, and deep learning. My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders. I am able to jump across verticals to deliver high-performing AI solutions. Apart from my academics, I’ve taken on various leadership roles, including being the captian for our school junior-varsity volleyball team, mentoring and teaching kids various STEM topics and leading teams for various competitions. This summer break, I'm interested in a part-time data science or machine learning internship. Please feel free to get in touch with me via email at abhisar.muz@gmail.com
 
 A more detailed Resume can be found here: https://tinyurl.com/AbhisarAnandResume
+Linktree: https://linktr.ee/AbhisarAnand
 
 ## 📈 **My GitHub Stats:**
 
