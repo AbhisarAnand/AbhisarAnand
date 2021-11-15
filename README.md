@@ -26,11 +26,7 @@ Linktree: https://linktr.ee/AbhisarAnand
 ## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Python           2 hrs 56 mins   ███████████████████▒░░░░░   77.65 % 
-SQL              40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.00 % 
-HTML             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-CSV/TSV          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 #### **Note: I spend a lot of time using Jupyter Notebooks which Wakatime counts as Other.**
