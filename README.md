@@ -26,9 +26,8 @@ Linktree: https://linktr.ee/AbhisarAnand
 ## 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Other    31 hrs 39 mins  █████████████████████▓░░░   86.47 % 
-Java     4 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Python   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Other   31 hrs 1 min    █████████████████████▓░░░   86.95 % 
+Java    4 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 ```
 <!--END_SECTION:waka-->
 #### **Note: I spend a lot of time using Jupyter Notebooks which Wakatime counts as Other.**
