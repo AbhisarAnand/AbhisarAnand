@@ -27,7 +27,8 @@ Linktree: https://linktr.ee/AbhisarAnand
 <!--START_SECTION:waka-->
 
 ```text
-Java   3 mins          █████████████████████████   100.00 %
+Java             28 mins         ██████████████████████▓░░   90.64 %
+GitIgnore file   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
 ```
 
 <!--END_SECTION:waka-->
