@@ -27,7 +27,12 @@ Linktree: https://linktr.ee/AbhisarAnand
 <!--START_SECTION:waka-->
 
 ```text
-Java   19 mins         █████████████████████████   100.00 %
+Python           1 hr 42 mins    ████████████████████▒░░░░   80.69 %
+Java             19 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+Jupyter          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+IDEA_MODULE      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
