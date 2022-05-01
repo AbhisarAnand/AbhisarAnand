@@ -27,7 +27,7 @@ Linktree: https://linktr.ee/AbhisarAnand
 <!--START_SECTION:waka-->
 
 ```text
-Other    7 hrs 41 mins   ███████████████████████▒░   92.94 %
+Other    10 hrs 22 mins  ███████████████████████▓░   94.67 %
 ```
 
 <!--END_SECTION:waka-->
