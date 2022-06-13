@@ -27,7 +27,7 @@ Linktree: https://linktr.ee/AbhisarAnand
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other   1 hr            ██████████████████▓░░░░░░   74.03 %
 ```
 
 <!--END_SECTION:waka-->
