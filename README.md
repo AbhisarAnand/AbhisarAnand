@@ -27,12 +27,11 @@ Linktree: https://linktr.ee/AbhisarAnand
 <!--START_SECTION:waka-->
 
 ```text
-Python             5 hrs 25 mins   ████████████████▒░░░░░░░░   64.85 %
-C#                 2 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   32.62 %
-Text               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-JSON               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-GitIgnore file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python             5 hrs 34 mins   ████████████████████████░   96.33 %
+Text               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+JSON               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+GitIgnore file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
