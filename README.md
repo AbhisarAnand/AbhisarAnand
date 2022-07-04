@@ -27,12 +27,8 @@ Linktree: https://linktr.ee/AbhisarAnand
 <!--START_SECTION:waka-->
 
 ```text
-Python           1 hr 31 mins    ██████████████████▓░░░░░░   75.32 %
-Markdown         13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-JSON             11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-CSV              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-CSV/TSV          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Markdown     13 mins         █████████████████████████   100.00 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
