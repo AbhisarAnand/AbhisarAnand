@@ -27,11 +27,7 @@ Linktree: https://linktr.ee/AbhisarAnand
 <!--START_SECTION:waka-->
 
 ```text
-YAML   1 hr 1 min      ████████████████████▓░░░░   82.49 %
-INI    7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-PHP    5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-CSV    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other   8 hrs 41 mins   █████████████████████▓░░░   86.03 %
 ```
 
 <!--END_SECTION:waka-->
