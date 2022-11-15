@@ -27,7 +27,7 @@ Linktree: https://linktr.ee/AbhisarAnand
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter   38 mins         █████████████████████████   100.00 %
+Jupyter   43 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
