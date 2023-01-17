@@ -27,8 +27,8 @@ Linktree: https://linktr.ee/AbhisarAnand
 <!--START_SECTION:waka-->
 
 ```text
-Python   12 hrs 16 mins  ███████████████▓░░░░░░░░░   62.19 %
-Other    7 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.81 %
+Python   11 hrs 16 mins  ███████████████▓░░░░░░░░░   63.14 %
+Other    6 hrs 34 mins   █████████▒░░░░░░░░░░░░░░░   36.86 %
 ```
 
 <!--END_SECTION:waka-->
