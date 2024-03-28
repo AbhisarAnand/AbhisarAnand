@@ -1,7 +1,6 @@
 [![Abhisar's GitHub Banner](./assets/BannerDesign1.png)](https://abhisaranand.github.io/)
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Abhisar Anand</h1>
-<h3 align="center">I love working on AI Projects</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisaranand&label=Profile%20views&color=0e75b6&style=flat" alt="abhisaranand" /> </p>
 
