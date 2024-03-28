@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhisaranand" alt="abhisaranand" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+- 👨‍💻 My website is coming soon!
+<!--- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)-->
 
 - 📫 How to reach me **abhisar.muz@gmail.com**
 
