@@ -1,7 +1,8 @@
 [![Abhisar's GitHub Banner](./assets/BannerDesign1.png)](https://abhisaranand.github.io/)
 
 <h1 align="left">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="left">Thanks for visiting!</h3> [![](https://visitcount.itsvg.in/api?id=abhisaranand&icon=0&color=1)](https://visitcount.itsvg.in)
+<h3 align="left">Thanks for visiting!</h3> 
+[![](https://visitcount.itsvg.in/api?id=abhisaranand&icon=0&color=1)](https://visitcount.itsvg.in)
 
 - 👨‍💻 Website is <img src="./assets/coming_soon.gif" width="125px">
 
