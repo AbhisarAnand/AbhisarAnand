@@ -3,7 +3,7 @@
 <h1 align="left">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h3 align="left">Thanks for visiting!</h3> 
 
-[![](https://visitcount.itsvg.in/api?id=abhisaranand&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=abhisaranand&icon=0&color=1)](https://visitcount.itsvg.in) [![wakatime](https://wakatime.com/badge/user/8335e9d0-fb06-4ddf-b003-1053a34181a6.svg)](https://wakatime.com/@8335e9d0-fb06-4ddf-b003-1053a34181a6)<br/>
 
 - 👨‍💻 Website is <img src="./assets/coming_soon.gif" width="125px">
 
@@ -24,7 +24,6 @@ Hey, I'm an aspiring student who loves tackling real-world issues: be it ideas f
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=abhisaranand&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhisaranand&theme=radical&hide_border=false)<br/>
-[![wakatime](https://wakatime.com/badge/user/8335e9d0-fb06-4ddf-b003-1053a34181a6.svg)](https://wakatime.com/@8335e9d0-fb06-4ddf-b003-1053a34181a6)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisaranand&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
