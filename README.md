@@ -1,7 +1,7 @@
 [![Abhisar's GitHub Banner](./assets/BannerDesign1.png)](https://abhisaranand.github.io/)
 
 <h1 align="left">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<p align="left">Thanks for visiting!</p> [![]](https://visitcount.itsvg.in/api?id=abhisaranand&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="left">Thanks for visiting!</p> [![](https://visitcount.itsvg.in/api?id=abhisaranand&icon=0&color=1)](https://visitcount.itsvg.in)
 
 - 👨‍💻 Website is <img src="./assets/coming_soon.gif" width="125px">
 
@@ -28,8 +28,8 @@ Hey, I'm an aspiring student who loves tackling real-world issues: be it ideas f
 
 ---
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhisaranand) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhisaranand) 
 
   
 <!--<h3 align="left">Connect with me:</h3>
