@@ -5,7 +5,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=abhisaranand&icon=0&color=1)](https://visitcount.itsvg.in) [![wakatime](https://wakatime.com/badge/user/8335e9d0-fb06-4ddf-b003-1053a34181a6.svg)](https://wakatime.com/@8335e9d0-fb06-4ddf-b003-1053a34181a6)<br/>
 
-- 🖥️ Website is <img src="./assets/coming_soon.gif" width="125px">
+- 🖥️ Website is **[abhisaranand.github.io](abhisaranand.github.io)**
 
 - 📫 How to reach me: **[abhisar.muz@gmail.com](mailto:abhisar.muz@gmail.com)**
 
